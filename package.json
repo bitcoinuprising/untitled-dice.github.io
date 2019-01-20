@@ -1,7 +1,5 @@
 
-"scripts": {
-    "start": "app.js"
-}
+
 {
   "dependencies": {
     "CBuffer": "^1.1.0",
@@ -11,4 +9,7 @@
     "socket.io-client": "^1.3.5",
     "wolfy87-eventemitter": "^4.2.11"
   }
+}
+"scripts": {
+    "start": "node your-script.js"
 }
